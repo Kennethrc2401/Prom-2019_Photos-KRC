@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* NAVBAR Styles */
+.navbar-custom {
+    background-color: #000000 !important; /* HotPink = #FF69B4 & LightPink = #FFB6C1 */
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #FFFFFF;
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #FFFFFF;
+}
+
+.navbar-form button {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.topic {
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+
+/* Footer */
+footer {
+	background-color: #000000;
+	color: gray;
+}
