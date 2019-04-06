@@ -29,6 +29,15 @@
 	text-align: center;
 	font-family: 'Pacifico', cursive;
 	color: goldenrod;
+	padding: 5px 0px 0px 0px;
+}
+
+.email {
+	word-wrap: break-word;
+}
+
+address {
+	
 }
 
 /* Footer */
