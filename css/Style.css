@@ -1,12 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 html, body {
-	background-color: #eee2d6!important;
+	background-color: #eee2d6!important; /* Original Color: #f7f0ea */
 }
 
 /* NAVBAR Styles */
 .navbar-custom {
-    background-color: #000000 !important; /* HotPink = #FF69B4 & LightPink = #FFB6C1 */
+    background-color: #000000 !important;
 }
 /* change the brand and text color */
 .navbar-custom .navbar-brand,
@@ -26,6 +26,10 @@ html, body {
 .navbar-form button {
 	background-color: #000000;
 	color: #ffffff;
+}
+
+.form-control {
+	background-color: #f7f0ea;
 }
 
 /* Main Heading */
