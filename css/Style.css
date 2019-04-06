@@ -29,13 +29,14 @@
 .topic {
 	text-align: center;
 	font-family: 'Pacifico', cursive;
-	color: goldenrod;
+	color: #DAA520; /* goldenrod */
 	padding: 5px 0px 0px 0px;
 }
 
 /* Photo Gallery Section */
 .photoGallery {
 	font-family: 'Merriweather', serif;
+	color: #00114D;
 }
 
 /* Contact section */
