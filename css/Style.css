@@ -25,6 +25,7 @@
 	color: #ffffff;
 }
 
+/* Main Heading */
 .topic {
 	text-align: center;
 	font-family: 'Pacifico', cursive;
@@ -32,6 +33,12 @@
 	padding: 5px 0px 0px 0px;
 }
 
+/* Photo Gallery Section */
+.photoGallery {
+	font-family: 'Merriweather', serif;
+}
+
+/* Contact section */
 .email {
 	word-wrap: break-word;
 }
